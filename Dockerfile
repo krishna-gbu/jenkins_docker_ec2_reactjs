@@ -1,2 +1,2 @@
 FROM nginx
-RUN  cp -r build/* /usr/share/nginx/html/
+RUN  cp -r ./build/* /usr/share/nginx/html/
