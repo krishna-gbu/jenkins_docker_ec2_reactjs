@@ -1,3 +1,3 @@
 FROM nginx:latest
-WORKDIR /home/ubuntu/workspace/jenkins_docker_reactjs
-RUN  cp -r build/* /usr/share/nginx/html/
+# WORKDIR /home/ubuntu/workspace/jenkins_docker_reactjs
+COPY  build/* /usr/share/nginx/html/
