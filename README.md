@@ -30,3 +30,20 @@ git push
 
 ![image](https://user-images.githubusercontent.com/40553867/201890867-130cbd8f-0c23-49b4-998e-c7e04c4e189e.png)
 
+## docker installation on target os
+### https://docs.docker.com/engine/install/ubuntu/
+![image](https://user-images.githubusercontent.com/40553867/203580165-02a22959-0907-4a2d-a3ed-6aa7bb459ba3.png)
+
+## add key 
+![image](https://user-images.githubusercontent.com/40553867/203580394-3d6080cc-8391-4608-bbe4-2816daadd0da.png)
+
+![image](https://user-images.githubusercontent.com/40553867/203580629-b5defcc1-ce85-4266-a783-169c57294cb8.png)
+
+![image](https://user-images.githubusercontent.com/40553867/203580764-9bd56ddf-9893-45c9-ad18-a0d46f9546ef.png)
+
+![image](https://user-images.githubusercontent.com/40553867/203580859-c20d41a2-56f6-4d3e-8f14-a5fb48647ac0.png)
+
+![image](https://user-images.githubusercontent.com/40553867/203581120-f11a2dcb-6416-491c-8251-32f07e161ac5.png)
+
+![image](https://user-images.githubusercontent.com/40553867/203581347-40433761-f2b8-4ba4-b654-f2664857bd24.png)
+
