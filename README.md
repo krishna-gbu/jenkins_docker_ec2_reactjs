@@ -46,4 +46,13 @@ git push
 ![image](https://user-images.githubusercontent.com/40553867/203581120-f11a2dcb-6416-491c-8251-32f07e161ac5.png)
 
 ![image](https://user-images.githubusercontent.com/40553867/203581347-40433761-f2b8-4ba4-b654-f2664857bd24.png)
+# approach 1
+## first install nodejs on machine 
+## npm install 
+## npm run build
 
+## docker file
+```
+FROM nginx:latest
+COPY build/ /usr/share/nginx/html/
+```
