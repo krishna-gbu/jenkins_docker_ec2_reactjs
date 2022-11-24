@@ -1,3 +1,4 @@
 FROM nginx:latest
-# WORKDIR /home/ubuntu/workspace/jenkins_docker_reactjs
-COPY  build/* /usr/share/nginx/html/
+RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
+RUN apt-get install -y nodejs
+COPY build/ /usr/share/nginx/html/
