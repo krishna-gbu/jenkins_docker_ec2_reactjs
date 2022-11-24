@@ -69,6 +69,7 @@ COPY build/ /usr/share/nginx/html/
 ![image](https://user-images.githubusercontent.com/40553867/203738170-593861ae-189b-4623-aba0-38a9f06c6d26.png)
 
 ## approche 2
+#### No need nodejs on host machine
 ![image](https://user-images.githubusercontent.com/40553867/203763119-3f5bc1ef-f390-429c-abf3-4c950b08fa8f.png)
 
 ![image](https://user-images.githubusercontent.com/40553867/203763564-6f017cc1-2285-4a7c-9c24-6b7e4dd45020.png)
