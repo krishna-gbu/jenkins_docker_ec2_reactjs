@@ -1,5 +1,5 @@
 FROM nginx:latest
-RUN curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+RUN curl -fsSL https://deb.nodesource.com/setup_18.x | bash -
 RUN apt-get install -y nodejs
 RUN cp -r ./ ./
 RUN npm install
