@@ -47,12 +47,23 @@ git push
 
 ![image](https://user-images.githubusercontent.com/40553867/203581347-40433761-f2b8-4ba4-b654-f2664857bd24.png)
 # approach 1
-## first install nodejs on machine 
-## npm install 
-## npm run build
+#### first install nodejs on machine 
+#### npm install 
+#### npm run build
 
 ## docker file
 ```
 FROM nginx:latest
 COPY build/ /usr/share/nginx/html/
 ```
+
+![image](https://user-images.githubusercontent.com/40553867/203738531-279bb9dc-b441-420d-9588-4f4239f0d14a.png)
+
+![image](https://user-images.githubusercontent.com/40553867/203738934-aa6b0c5c-aefd-45ad-9bf8-3bfd62283b9b.png)
+
+![image](https://user-images.githubusercontent.com/40553867/203740353-20c9c5d3-3b99-4412-ac27-08aa616fe1d3.png)
+
+
+![image](https://user-images.githubusercontent.com/40553867/203739492-117b79e5-0264-4607-8f81-d96b96cd1b73.png)
+
+![image](https://user-images.githubusercontent.com/40553867/203738170-593861ae-189b-4623-aba0-38a9f06c6d26.png)
